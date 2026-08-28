@@ -12,17 +12,24 @@ I'm currently focused on strengthening my frontend fundamentals, building real-w
 
 ## 🧑‍💻 About Me
 
-```javascript
-const shahid = {
-    role: "Frontend Developer",
-    level: "Beginner",
-    currentlyLearning: ["JavaScript", "Responsive Design", "Modern Web Development"],
-    technologies: ["HTML5", "CSS3", "JavaScript"],
-    tools: ["Git", "GitHub", "VS Code"],
-    goal: "Become a professional Frontend Developer",
-    mindset: "Learn → Build → Improve → Repeat 🚀"
-};
-```
+> **Frontend Developer in Progress 🚀**
+
+I'm a passionate beginner frontend developer focused on creating **clean, responsive, and user-friendly web experiences**.
+
+### ✨ A little about my journey
+
+* 🌱 Building a strong foundation in **HTML, CSS & JavaScript**
+* 🎨 Turning designs and ideas into **responsive websites**
+* 🧩 Learning through **real-world projects**
+* 🔍 Improving my **UI, accessibility & coding practices**
+* 📚 Continuously exploring **modern frontend development**
+* 🎯 Working toward becoming a **professional Frontend Developer**
+
+### 💡 My Approach
+
+**Learn → Build → Experiment → Improve → Repeat**
+
+I believe the best way to learn development is to **build real things, solve problems, and keep improving with every project.**
 
 ---
 
