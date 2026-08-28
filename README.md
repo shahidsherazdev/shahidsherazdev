@@ -37,51 +37,64 @@ I'm currently improving my frontend development skills by building projects with
 
 Here are some of the frontend projects I've been working on:
 
-### 🏢 Business Website
+### 🏢 [Business Website](https://github.com/shahidsherazdev/Business-Website-Simple-Project---HTML-CSS-)
 
 A simple responsive business website built with HTML and CSS.
 
 **Technologies:** HTML5 • CSS3
 
+🔗 [View Repository](https://github.com/shahidsherazdev/Business-Website-Simple-Project---HTML-CSS-)
+
 ---
 
-### 🏠 Luxora Estates
+### 🏠 [Luxora Estates](https://github.com/shahidsherazdev/Luxora-Estates-Website--HTML-CSS-)
 
 A modern real-estate website interface focused on clean layout and responsive design.
 
 **Technologies:** HTML5 • CSS3
 
+🔗 [View Repository](https://github.com/shahidsherazdev/Luxora-Estates-Website--HTML-CSS-)
+
 ---
 
-### ☕ Coffee Cafe Design
+### ☕ [Coffee Cafe Design](https://github.com/shahidsherazdev/Coffe-Cafe-Design--HTML-CSS)
 
 A coffee/cafe website design created to practice modern layouts, typography, and responsive styling.
 
 **Technologies:** HTML5 • CSS3
 
+🔗 [View Repository](https://github.com/shahidsherazdev/Coffe-Cafe-Design--HTML-CSS)
+
 ---
 
-### 💎 NFT Card
+### 💎 [NFT Card](https://github.com/shahidsherazdev/NFT-Card--HTML-CSS-)
 
 A responsive NFT card component created to practice CSS layout and component styling.
 
 **Technologies:** HTML5 • CSS3
 
+🔗 [View Repository](https://github.com/shahidsherazdev/NFT-Card--HTML-CSS-)
+
 ---
 
-### 🍲 Recipe Page
+### 🍲 [Recipe Page](https://github.com/shahidsherazdev/Recipe-Page-HTML-CSS)
 
 A responsive recipe webpage built to practice semantic HTML and clean CSS styling.
 
 **Technologies:** HTML5 • CSS3
 
+🔗 [View Repository](https://github.com/shahidsherazdev/Recipe-Page-HTML-CSS)
+
 ---
 
-### 💳 Order Summary Card
+### 💳 [Order Summary Card](https://github.com/shahidsherazdev/Order-Summary-Card-HTML-CSS)
 
 A responsive UI component focused on recreating a clean order-summary interface.
 
 **Technologies:** HTML5 • CSS3
+
+🔗 [View Repository](https://github.com/shahidsherazdev/Order-Summary-Card-HTML-CSS)
+
 
 ---
 
