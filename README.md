@@ -114,7 +114,7 @@ React
 * [x] Learn HTML fundamentals
 * [x] Learn CSS fundamentals
 * [x] Build responsive layouts
-* [x] Start building real projects
+* [ ] Start building real projects
 * [ ] Improve JavaScript
 * [ ] Build interactive websites
 * [ ] Learn Git & GitHub workflows
