@@ -107,20 +107,21 @@ Clean responsive UI component created to practice card layouts, spacing, typogra
 
 ---
 
-## 📚 Currently Learning
+## ⚡ What I'm Learning
 
-```text
-HTML5              ████████████████████  100%
-CSS3               ██████████████████░░   90%
-Responsive Design  ████████████████░░░░   80%
-JavaScript         ████████░░░░░░░░░░░░   40%
-Git & GitHub       ████████████████░░░░   80%
-React              ░░░░░░░░░░░░░░░░░░░░    0%
-```
+I'm continuously improving my frontend development skills by learning, building, and experimenting with new technologies.
 
-> These percentages represent my personal learning progress, not professional proficiency.
+| Technology               | Focus                           |
+| ------------------------ | ------------------------------- |
+| 🌐 **HTML5**             | Semantic & accessible structure |
+| 🎨 **CSS3**              | Responsive layouts & modern UI  |
+| ⚡ **JavaScript**         | Core fundamentals & DOM         |
+| 📱 **Responsive Design** | Mobile-first development        |
+|                          |                                 |
+|                          |                                 |
 
----
+> **Learning by building real projects — one step at a time. 🚀**
+
 
 ## 🎯 2026 Roadmap
 
