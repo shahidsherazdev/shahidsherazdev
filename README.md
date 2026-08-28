@@ -43,7 +43,7 @@ A simple responsive business website built with HTML and CSS.
 
 **Technologies:** HTML5 • CSS3
 
-🔗 [View Repository](https://github.com/shahidsherazdev/Business-Website-Simple-Project---HTML-CSS-)
+🔗 [Repository](https://github.com/shahidsherazdev/Business-Website-Simple-Project---HTML-CSS-) • 🌐 **[Live Demo](https://shahidsherazdev.github.io/Business-Website-Simple-Project---HTML-CSS-/)**
 
 ---
 
@@ -53,7 +53,7 @@ A modern real-estate website interface focused on clean layout and responsive de
 
 **Technologies:** HTML5 • CSS3
 
-🔗 [View Repository](https://github.com/shahidsherazdev/Luxora-Estates-Website--HTML-CSS-)
+🔗 [Repository](https://github.com/shahidsherazdev/Luxora-Estates-Website--HTML-CSS-) • 🌐 **[Live Demo](https://shahidsherazdev.github.io/Luxora-Estates-Website--HTML-CSS-/)**
 
 ---
 
@@ -63,7 +63,7 @@ A coffee/cafe website design created to practice modern layouts, typography, and
 
 **Technologies:** HTML5 • CSS3
 
-🔗 [View Repository](https://github.com/shahidsherazdev/Coffe-Cafe-Design--HTML-CSS)
+🔗 [Repository](https://github.com/shahidsherazdev/Coffe-Cafe-Design--HTML-CSS) • 🌐 **[Live Demo](https://shahidsherazdev.github.io/Coffe-Cafe-Design--HTML-CSS/)**
 
 ---
 
@@ -73,7 +73,7 @@ A responsive NFT card component created to practice CSS layout and component sty
 
 **Technologies:** HTML5 • CSS3
 
-🔗 [View Repository](https://github.com/shahidsherazdev/NFT-Card--HTML-CSS-)
+🔗 [Repository](https://github.com/shahidsherazdev/NFT-Card--HTML-CSS-) • 🌐 **[Live Demo](https://shahidsherazdev.github.io/NFT-Card--HTML-CSS-/)**
 
 ---
 
@@ -83,7 +83,7 @@ A responsive recipe webpage built to practice semantic HTML and clean CSS stylin
 
 **Technologies:** HTML5 • CSS3
 
-🔗 [View Repository](https://github.com/shahidsherazdev/Recipe-Page-HTML-CSS)
+🔗 [Repository](https://github.com/shahidsherazdev/Recipe-Page-HTML-CSS) • 🌐 **[Live Demo](https://shahidsherazdev.github.io/Recipe-Page-HTML-CSS/)**
 
 ---
 
@@ -93,7 +93,7 @@ A responsive UI component focused on recreating a clean order-summary interface.
 
 **Technologies:** HTML5 • CSS3
 
-🔗 [View Repository](https://github.com/shahidsherazdev/Order-Summary-Card-HTML-CSS)
+🔗 [Repository](https://github.com/shahidsherazdev/Order-Summary-Card-HTML-CSS) • 🌐 **[Live Demo](https://shahidsherazdev.github.io/Order-Summary-Card-HTML-CSS/)**
 
 
 ---
