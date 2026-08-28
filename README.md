@@ -42,68 +42,68 @@ const shahid = {
 
 ---
 
-## 🚀 Featured Projects
+## 📂 Featured Projects
 
-### 🏢 Business Website
+Here are some of the frontend projects I've been working on:
 
-Responsive business website built to practice modern layouts, typography, spacing, and responsive design.
+### 🏢 [Business Website](https://github.com/shahidsherazdev/Business-Website-Simple-Project---HTML-CSS-)
 
-**HTML5 • CSS3**
+A simple responsive business website built with HTML and CSS.
 
-[![🌐 Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Project-2ea44f?style=for-the-badge)](YOUR_LIVE_DEMO_URL) [![💻 Source Code](https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/shahidsherazdev/Business-Website-Simple-Project---HTML-CSS-)
+**Technologies:** HTML5 • CSS3
 
----
-
-### 🏠 Luxora Estates
-
-Modern real-estate website focused on visual hierarchy, clean sections, responsive layouts, and polished UI.
-
-**HTML5 • CSS3**
-
-[![🌐 Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Project-2ea44f?style=for-the-badge)](YOUR_LIVE_DEMO_URL) [![💻 Source Code](https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/shahidsherazdev/Luxora-Estates-Website--HTML-CSS-)
+🔗 [Repository](https://github.com/shahidsherazdev/Business-Website-Simple-Project---HTML-CSS-) • 🌐 **[Live Demo](https://shahidsherazdev.github.io/Business-Website-Simple-Project---HTML-CSS-/)**
 
 ---
 
-### ☕ Coffee Cafe
+### 🏠 [Luxora Estates](https://github.com/shahidsherazdev/Luxora-Estates-Website--HTML-CSS-)
 
-A responsive cafe website designed to practice layouts, typography, spacing, navigation, and responsive styling.
+A modern real-estate website interface focused on clean layout and responsive design.
 
-**HTML5 • CSS3**
+**Technologies:** HTML5 • CSS3
 
-[![🌐 Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Project-2ea44f?style=for-the-badge)](YOUR_LIVE_DEMO_URL) [![💻 Source Code](https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/shahidsherazdev/Coffe-Cafe-Design--HTML-CSS)
-
----
-
-### 💎 NFT Card
-
-Responsive NFT card component created to practice CSS layouts, positioning, typography, and component styling.
-
-**HTML5 • CSS3**
-
-[![🌐 Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Project-2ea44f?style=for-the-badge)](YOUR_LIVE_DEMO_URL) [![💻 Source Code](https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/shahidsherazdev/NFT-Card--HTML-CSS-)
+🔗 [Repository](https://github.com/shahidsherazdev/Luxora-Estates-Website--HTML-CSS-) • 🌐 **[Live Demo](https://shahidsherazdev.github.io/Luxora-Estates-Website--HTML-CSS-/)**
 
 ---
 
-### 🍲 Recipe Page
+### ☕ [Coffee Cafe Design](https://github.com/shahidsherazdev/Coffe-Cafe-Design--HTML-CSS)
 
-Responsive recipe webpage built to practice semantic HTML, typography, spacing, and clean CSS structure.
+A coffee/cafe website design created to practice modern layouts, typography, and responsive styling.
 
-**HTML5 • CSS3**
+**Technologies:** HTML5 • CSS3
 
-[![🌐 Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Project-2ea44f?style=for-the-badge)](YOUR_LIVE_DEMO_URL) [![💻 Source Code](https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/shahidsherazdev/Recipe-Page-HTML-CSS)
+🔗 [Repository](https://github.com/shahidsherazdev/Coffe-Cafe-Design--HTML-CSS) • 🌐 **[Live Demo](https://shahidsherazdev.github.io/Coffe-Cafe-Design--HTML-CSS/)**
 
 ---
 
-### 💳 Order Summary Card
+### 💎 [NFT Card](https://github.com/shahidsherazdev/NFT-Card--HTML-CSS-)
 
-Clean responsive UI component created to practice card layouts, spacing, typography, and responsive design.
+A responsive NFT card component created to practice CSS layout and component styling.
 
-**HTML5 • CSS3**
+**Technologies:** HTML5 • CSS3
 
-[![🌐 Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Project-2ea44f?style=for-the-badge)](YOUR_LIVE_DEMO_URL) [![💻 Source Code](https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/shahidsherazdev/Order-Summary-Card-HTML-CSS)
+🔗 [Repository](https://github.com/shahidsherazdev/NFT-Card--HTML-CSS-) • 🌐 **[Live Demo](https://shahidsherazdev.github.io/NFT-Card--HTML-CSS-/)**
 
+---
 
-\
+### 🍲 [Recipe Page](https://github.com/shahidsherazdev/Recipe-Page-HTML-CSS)
+
+A responsive recipe webpage built to practice semantic HTML and clean CSS styling.
+
+**Technologies:** HTML5 • CSS3
+
+🔗 [Repository](https://github.com/shahidsherazdev/Recipe-Page-HTML-CSS) • 🌐 **[Live Demo](https://shahidsherazdev.github.io/Recipe-Page-HTML-CSS/)**
+
+---
+
+### 💳 [Order Summary Card](https://github.com/shahidsherazdev/Order-Summary-Card-HTML-CSS)
+
+A responsive UI component focused on recreating a clean order-summary interface.
+
+**Technologies:** HTML5 • CSS3
+
+🔗 [Repository](https://github.com/shahidsherazdev/Order-Summary-Card-HTML-CSS) • 🌐 **[Live Demo](https://shahidsherazdev.github.io/Order-Summary-Card-HTML-CSS/)**
+
 
 ---
 
