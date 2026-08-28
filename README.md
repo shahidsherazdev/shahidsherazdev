@@ -150,14 +150,14 @@ React              ░░░░░░░░░░░░░░░░░░░░ 
 
 ---
 
-## 📈 Contribution Journey
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahidsherazdev&hide_border=true" alt="Shahid Sheraz GitHub contribution activity graph" />
-</p>
-
-<p align="center">
-  <i>Building consistently. Learning continuously. 🚀</i>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=shahidsherazdev&show_icons=true&hide_border=true&rank_icon=github"
+    height="170"
+    alt="Shahid Sheraz GitHub Stats"
+  />
 </p>
 
 
