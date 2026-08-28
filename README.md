@@ -150,13 +150,16 @@ React              ░░░░░░░░░░░░░░░░░░░░ 
 
 ---
 
-## 🐍 Contribution Journey
+## 📈 Contribution Journey
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shahidsherazdev/shahidsherazdev/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahidsherazdev&hide_border=true" alt="Shahid Sheraz GitHub contribution activity graph" />
 </p>
 
----
+<p align="center">
+  <i>Building consistently. Learning continuously. 🚀</i>
+</p>
+
 
 ## 🌱 My Development Philosophy
 
