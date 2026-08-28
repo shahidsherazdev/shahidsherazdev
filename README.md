@@ -1,35 +1,29 @@
 # 👋 Hey, I'm Shahid Sheraz
 
-### Frontend Developer in Progress 🚀
+### 💻 Frontend Developer | HTML • CSS • JavaScript
 
-I build **clean, responsive, and user-friendly websites** with HTML, CSS, and JavaScript.
+I build **clean, responsive, and user-friendly websites** while continuously improving my frontend development skills.
 
-I'm currently focused on strengthening my frontend fundamentals, building real-world projects, and growing toward becoming a professional Frontend Developer.
+I'm focused on turning ideas into real projects, writing better code, and learning modern web development through hands-on practice.
 
-\
+<p align="left">
+  <a href="https://github.com/shahidsherazdev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-> **Frontend Developer in Progress 🚀**
-
-I'm a passionate beginner frontend developer focused on creating **clean, responsive, and user-friendly web experiences**.
-
-### ✨ A little about my journey
-
-* 🌱 Building a strong foundation in **HTML, CSS & JavaScript**
-* 🎨 Turning designs and ideas into **responsive websites**
-* 🧩 Learning through **real-world projects**
-* 🔍 Improving my **UI, accessibility & coding practices**
-* 📚 Continuously exploring **modern frontend development**
+* 🌱 Building a strong foundation in **Frontend Development**
+* 🎨 Interested in **modern UI and responsive web design**
+* 🧩 Learning by building **real projects**
+* ⚡ Improving my **JavaScript and problem-solving skills**
+* 📱 Focused on **responsive, accessible interfaces**
 * 🎯 Working toward becoming a **professional Frontend Developer**
 
-### 💡 My Approach
-
-**Learn → Build → Experiment → Improve → Repeat**
-
-I believe the best way to learn development is to **build real things, solve problems, and keep improving with every project.**
+> **Learn → Build → Improve → Repeat 🚀**
 
 ---
 
@@ -38,123 +32,99 @@ I believe the best way to learn development is to **build real things, solve pro
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML CSS JavaScript"/>
 </p>
 
-### Tools & Workflow
+### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git GitHub VS Code"/>
 </p>
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
-Here are some of the frontend projects I've been working on:
+### 🏢 Business Website
 
-### 🏢 [Business Website](https://github.com/shahidsherazdev/Business-Website-Simple-Project---HTML-CSS-)
+A responsive business website focused on clean layouts, typography, spacing, and responsive design.
 
-A simple responsive business website built with HTML and CSS.
+**HTML5 • CSS3**
 
-**Technologies:** HTML5 • CSS3
-
-🔗 [Repository](https://github.com/shahidsherazdev/Business-Website-Simple-Project---HTML-CSS-) • 🌐 **[Live Demo](https://shahidsherazdev.github.io/Business-Website-Simple-Project---HTML-CSS-/)**
-
----
-
-### 🏠 [Luxora Estates](https://github.com/shahidsherazdev/Luxora-Estates-Website--HTML-CSS-)
-
-A modern real-estate website interface focused on clean layout and responsive design.
-
-**Technologies:** HTML5 • CSS3
-
-🔗 [Repository](https://github.com/shahidsherazdev/Luxora-Estates-Website--HTML-CSS-) • 🌐 **[Live Demo](https://shahidsherazdev.github.io/Luxora-Estates-Website--HTML-CSS-/)**
+[![🌐 Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Project-2ea44f?style=for-the-badge)](YOUR_LIVE_DEMO_URL)
+[![💻 Source Code](https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/shahidsherazdev/Business-Website-Simple-Project---HTML-CSS-)
 
 ---
 
-### ☕ [Coffee Cafe Design](https://github.com/shahidsherazdev/Coffe-Cafe-Design--HTML-CSS)
+### 🏠 Luxora Estates
 
-A coffee/cafe website design created to practice modern layouts, typography, and responsive styling.
+A modern real-estate website focused on visual hierarchy, clean sections, responsive layouts, and polished UI.
 
-**Technologies:** HTML5 • CSS3
+**HTML5 • CSS3**
 
-🔗 [Repository](https://github.com/shahidsherazdev/Coffe-Cafe-Design--HTML-CSS) • 🌐 **[Live Demo](https://shahidsherazdev.github.io/Coffe-Cafe-Design--HTML-CSS/)**
-
----
-
-### 💎 [NFT Card](https://github.com/shahidsherazdev/NFT-Card--HTML-CSS-)
-
-A responsive NFT card component created to practice CSS layout and component styling.
-
-**Technologies:** HTML5 • CSS3
-
-🔗 [Repository](https://github.com/shahidsherazdev/NFT-Card--HTML-CSS-) • 🌐 **[Live Demo](https://shahidsherazdev.github.io/NFT-Card--HTML-CSS-/)**
+[![🌐 Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Project-2ea44f?style=for-the-badge)](YOUR_LIVE_DEMO_URL)
+[![💻 Source Code](https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/shahidsherazdev/Luxora-Estates-Website--HTML-CSS-)
 
 ---
 
-### 🍲 [Recipe Page](https://github.com/shahidsherazdev/Recipe-Page-HTML-CSS)
+### ☕ Coffee Cafe
 
-A responsive recipe webpage built to practice semantic HTML and clean CSS styling.
+A responsive cafe website created to practice layouts, typography, navigation, spacing, and responsive styling.
 
-**Technologies:** HTML5 • CSS3
+**HTML5 • CSS3**
 
-🔗 [Repository](https://github.com/shahidsherazdev/Recipe-Page-HTML-CSS) • 🌐 **[Live Demo](https://shahidsherazdev.github.io/Recipe-Page-HTML-CSS/)**
+[![🌐 Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Project-2ea44f?style=for-the-badge)](YOUR_LIVE_DEMO_URL)
+[![💻 Source Code](https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/shahidsherazdev/Coffe-Cafe-Design--HTML-CSS)
 
 ---
 
-### 💳 [Order Summary Card](https://github.com/shahidsherazdev/Order-Summary-Card-HTML-CSS)
+### 💎 NFT Card
 
-A responsive UI component focused on recreating a clean order-summary interface.
+A responsive NFT card component focused on CSS layouts, positioning, typography, and component styling.
 
-**Technologies:** HTML5 • CSS3
+**HTML5 • CSS3**
 
-🔗 [Repository](https://github.com/shahidsherazdev/Order-Summary-Card-HTML-CSS) • 🌐 **[Live Demo](https://shahidsherazdev.github.io/Order-Summary-Card-HTML-CSS/)**
+[![🌐 Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Project-2ea44f?style=for-the-badge)](YOUR_LIVE_DEMO_URL)
+[![💻 Source Code](https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/shahidsherazdev/NFT-Card--HTML-CSS-)
 
+---
+
+### 🍲 Recipe Page
+
+A responsive recipe webpage built to practice semantic HTML, typography, spacing, and clean CSS structure.
+
+**HTML5 • CSS3**
+
+[![🌐 Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Project-2ea44f?style=for-the-badge)](YOUR_LIVE_DEMO_URL)
+[![💻 Source Code](https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/shahidsherazdev/Recipe-Page-HTML-CSS)
+
+---
+
+### 💳 Order Summary Card
+
+A clean responsive UI component focused on card layouts, spacing, typography, and responsive design.
+
+**HTML5 • CSS3**
+
+[![🌐 Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Project-2ea44f?style=for-the-badge)](YOUR_LIVE_DEMO_URL)
+[![💻 Source Code](https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/shahidsherazdev/Order-Summary-Card-HTML-CSS)
 
 ---
 
 ## ⚡ What I'm Learning
 
-I'm continuously improving my frontend development skills by learning, building, and experimenting with new technologies.
+I'm continuously improving my frontend development skills by learning, building, and experimenting with modern web technologies.
 
-| Technology               | Focus                           |
-| ------------------------ | ------------------------------- |
-| 🌐 **HTML5**             | Semantic & accessible structure |
-| 🎨 **CSS3**              | Responsive layouts & modern UI  |
-| ⚡ **JavaScript**         | Core fundamentals & DOM         |
-| 📱 **Responsive Design** | Mobile-first development        |
-|                          |                                 |
-|                          |                                 |
+| Technology               | Current Focus                     |
+| ------------------------ | --------------------------------- |
+| 🌐 **HTML5**             | Semantic & accessible structure   |
+| 🎨 **CSS3**              | Responsive layouts & modern UI    |
+| ⚡ **JavaScript**         | Fundamentals, DOM & interactivity |
+| 📱 **Responsive Design** | Mobile-first development          |
+| ⚛️ **React**             | Next step in my frontend journey  |
 
-> **Learning by building real projects — one step at a time. 🚀**
+> **Learn → Build → Improve → Repeat 🚀**
 
-
-## 🎯 2026 Roadmap
-
-* [x] HTML5 fundamentals
-* [x] CSS3 fundamentals
-* [x] Responsive web design
-* [x] Build frontend projects
-* [x] Git & GitHub basics
-* [ ] JavaScript fundamentals
-* [ ] DOM manipulation
-* [ ] APIs & asynchronous JavaScript
-* [ ] Modern JavaScript
-* [ ] React
-* [ ] Build larger real-world projects
-* [ ] Launch professional portfolio
-* [ ] Start freelancing
-* [ ] Land my first frontend opportunity
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahidsherazdev&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahidsherazdev&hide_border=true" height="170"/>
-</p>
 
 ---
 
@@ -163,17 +133,22 @@ I'm continuously improving my frontend development skills by learning, building,
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=shahidsherazdev&show_icons=true&hide_border=true&rank_icon=github"
-    height="170"
     alt="Shahid Sheraz GitHub Stats"
   />
 </p>
 
+---
 
-## 🌱 My Development Philosophy
+## 🎯 2026 Goals
 
-> **Don't just watch tutorials. Build things. Break things. Fix them. Repeat.**
-
-Every project I build is an opportunity to learn something new and improve my development skills.
+* 🚀 Strengthen JavaScript fundamentals
+* 🧩 Build interactive frontend projects
+* 🔌 Learn APIs and asynchronous JavaScript
+* ⚛️ Start learning React
+* 💼 Build a professional portfolio
+* 🌐 Deploy more projects
+* 🤝 Contribute to real-world projects
+* 🎯 Prepare for frontend development opportunities
 
 ---
 
@@ -181,11 +156,11 @@ Every project I build is an opportunity to learn something new and improve my de
 
 <p align="left">
   <a href="https://github.com/shahidsherazdev">
-    <img src="https://img.shields.io/badge/GitHub-Shahid%20Sheraz-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Shahid%20Sheraz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
-📧 **Email:** [shahidsherz.dev@gmail.com](mailto:shahidsherz.dev@gmail.com)
+📧 **Email:** [shahidsherz.dev@gmail.com](mailto:shahidsherz.dev@gmail.com)
 🌐 **Portfolio:** Coming soon
 
 ---
@@ -193,5 +168,5 @@ Every project I build is an opportunity to learn something new and improve my de
 <p align="center">
   <b>Thanks for visiting my profile! ⭐</b>
   <br/>
-  <sub>Learning today. Building tomorrow. 🚀</sub>
+  <sub>Keep learning. Keep building. Keep improving. 🚀</sub>
 </p>
