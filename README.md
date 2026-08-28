@@ -50,7 +50,7 @@ Responsive business website built to practice modern layouts, typography, spacin
 
 **HTML5 • CSS3**
 
-\
+[![🌐 Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Project-2ea44f?style=for-the-badge)](YOUR_LIVE_DEMO_URL) [![💻 Source Code](https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/shahidsherazdev/Business-Website-Simple-Project---HTML-CSS-)
 
 ---
 
@@ -60,7 +60,7 @@ Modern real-estate website focused on visual hierarchy, clean sections, responsi
 
 **HTML5 • CSS3**
 
-\
+[![🌐 Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Project-2ea44f?style=for-the-badge)](YOUR_LIVE_DEMO_URL) [![💻 Source Code](https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/shahidsherazdev/Luxora-Estates-Website--HTML-CSS-)
 
 ---
 
@@ -70,7 +70,7 @@ A responsive cafe website designed to practice layouts, typography, spacing, nav
 
 **HTML5 • CSS3**
 
-\
+[![🌐 Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Project-2ea44f?style=for-the-badge)](YOUR_LIVE_DEMO_URL) [![💻 Source Code](https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/shahidsherazdev/Coffe-Cafe-Design--HTML-CSS)
 
 ---
 
@@ -80,7 +80,7 @@ Responsive NFT card component created to practice CSS layouts, positioning, typo
 
 **HTML5 • CSS3**
 
-\
+[![🌐 Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Project-2ea44f?style=for-the-badge)](YOUR_LIVE_DEMO_URL) [![💻 Source Code](https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/shahidsherazdev/NFT-Card--HTML-CSS-)
 
 ---
 
@@ -90,7 +90,7 @@ Responsive recipe webpage built to practice semantic HTML, typography, spacing, 
 
 **HTML5 • CSS3**
 
-\
+[![🌐 Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Project-2ea44f?style=for-the-badge)](YOUR_LIVE_DEMO_URL) [![💻 Source Code](https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/shahidsherazdev/Recipe-Page-HTML-CSS)
 
 ---
 
@@ -99,6 +99,9 @@ Responsive recipe webpage built to practice semantic HTML, typography, spacing, 
 Clean responsive UI component created to practice card layouts, spacing, typography, and responsive design.
 
 **HTML5 • CSS3**
+
+[![🌐 Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Project-2ea44f?style=for-the-badge)](YOUR_LIVE_DEMO_URL) [![💻 Source Code](https://img.shields.io/badge/💻_Source_Code-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/shahidsherazdev/Order-Summary-Card-HTML-CSS)
+
 
 \
 
